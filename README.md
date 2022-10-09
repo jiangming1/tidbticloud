@@ -1,6 +1,6 @@
 # tidbticloud
 自己的tidb私有云
-By jiangming rqy osdba
+By jiangming rqy osdba 刘开龙
 
 概述
 
