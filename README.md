@@ -1,7 +1,7 @@
 # tidbticloud
 自己的tidb私有云
 By jiangming rqy osdba 刘开龙
-
+<pre>
 
 概述
 
@@ -44,3 +44,4 @@ mysql支撑起了今天互联网最赚钱的场景，在数据量越来越大的
 
 挑战：
 看起来不硬核，但工程度复杂
+</pre>
